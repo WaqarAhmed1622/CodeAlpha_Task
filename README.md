@@ -1,6 +1,6 @@
 This repository contains two machine learning projects: a car price predictor and an Iris flower species classifier. Each project includes a Jupyter Notebook detailing the data analysis and model training process, the dataset used, a saved machine learning model, and a simple GUI application for making predictions.
 
-Projects
+#Projects
 1. Car Price Prediction
 This project aims to predict the selling price of used cars based on various features.
 
